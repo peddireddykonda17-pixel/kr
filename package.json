@@ -5,9 +5,7 @@
   "homepage": "https://peddireddykonda17-pixel.github.io/kr",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "export": "next export",
-    "deploy": "npm run build && npm run export"
+    "build": "next build"
   },
   "dependencies": {
     "react": "^18.2.0",
