@@ -2,7 +2,6 @@
   "name": "kr-groups",
   "version": "1.0.0",
   "description": "KR Groups - AI with human friendly interface",
-  "homepage": "https://peddireddykonda17-pixel.github.io/kr",
   "scripts": {
     "dev": "next dev",
     "build": "next build"
